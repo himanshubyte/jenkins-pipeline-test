@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "auniYPTZwGTO1FpdeP8rQEYS+X1ben9YcJ76JM2JRwo=",
+  "Source": "JenkinWebApplication",
+  "BasePath": "_content/JenkinWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
